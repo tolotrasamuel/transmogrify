@@ -1,6 +1,6 @@
 name: transmogrify
 description: The transmogrify package as featured in the Dart and Flutter Documentation.
-version: 1.0.0
+version: 1.0.1
 # repository: https://github.com/my_org/my_repo
 
 environment:

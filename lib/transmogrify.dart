@@ -1,8 +1,7 @@
-/// Support for doing something awesome.
+/// Support for doing something transmogrify.
 ///
 /// More dartdocs go here.
 library;
 
 export 'src/transmogrify_base.dart';
 
-// TODO: Export any libraries intended for clients of this package.

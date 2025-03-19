@@ -1,6 +1,12 @@
-// TODO: Put public facing types in this file.
 
-/// Checks if you are awesome. Spoiler: you are.
-class Awesome {
-  bool get isAwesome => true;
+/// Checks if you are transmogrify. Spoiler: you are.
+class Transmogrify {
+
+  /// Returns [true] if you are transmogred.
+  bool get isTransmogrify => true;
+
+  /// Transmogrify some [input].
+  static dryRun() {
+    print('so dry');
+  }
 }

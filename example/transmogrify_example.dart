@@ -1,6 +1,6 @@
 import 'package:transmogrify/transmogrify.dart';
 
 void main() {
-  var awesome = Awesome();
-  print('awesome: ${awesome.isAwesome}');
+  var transmogrify = Transmogrify();
+  print('transmogrify: ${transmogrify.isTransmogrify}');
 }
